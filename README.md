@@ -1,2 +1,2 @@
 # image_converter
-Convert a png image to many jpg images.
+Overlay a png image on many jpg images.
